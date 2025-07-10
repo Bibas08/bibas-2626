@@ -1,0 +1,1 @@
+letter = "Dear students,\n\tThis python course is going well\n\tThank you"

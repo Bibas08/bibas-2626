@@ -51,3 +51,4 @@ letter_filled = letter_filled.replace("<|DATE|>", date)
 
 print("\nHere is your letter:\n")
 print(letter_filled)
+
