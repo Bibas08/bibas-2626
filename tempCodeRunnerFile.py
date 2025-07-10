@@ -1,1 +1,3 @@
-letter = "Dear students,\n\tThis python course is going well\n\tThank you"
+def longest_word(sentence):
+    words = sentence.split()
+    return max(words, key=len)

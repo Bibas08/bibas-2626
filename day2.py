@@ -21,3 +21,4 @@ print(name)
 
 #wap to format the following letter using escape sequence characters
 letter = "Dear students,\n\tThis python course is going well\n\tThank you"
+
